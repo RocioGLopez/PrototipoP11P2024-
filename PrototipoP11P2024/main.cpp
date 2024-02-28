@@ -55,7 +55,7 @@ void llamaCiclo()
     ya que inicamos que vamos a tener NUMERO_ALUMNOS=5 filas con 5 alumnos
     y la MAXIMA_LONGITUD_CADENA nos indicara cuantos caracteres tendra nuestros nombres, en este caso 100
     */
-    char alumnos[NUMERO_ALUMNOS][MAXIMA_LONGITUD_CADENA] = {"Carlos","Luis","Maria","Pedro","Juan"};
+    char alumnos[NUMERO_ALUMNOS][MAXIMA_LONGITUD_CADENA] = {"Rocio","Kevin","Mar","Lucas","Pablito"};
 
     //ciclo do para pedir el proceso cuantas veces desee
     do
