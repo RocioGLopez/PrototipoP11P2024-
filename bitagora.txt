@@ -1,0 +1,35 @@
+commit 6bae4dd9bde78a254db8f28deaf75be006aa97e8
+Author: Rocio Lopez <guisell.alvarado@gmail.com>
+Date:   Wed Feb 28 10:40:25 2024 -0600
+
+    MENSAJE DE FELICITACION
+
+commit 73600bbb9e699b0d6de886040563c45c6292b8b8
+Author: Rocio Lopez <guisell.alvarado@gmail.com>
+Date:   Wed Feb 28 10:38:29 2024 -0600
+
+    Cambiando los nomrbes
+
+commit 2d7b999c812e051a54141f70fa770624064c0d8c
+Author: Rocio Lopez <guisell.alvarado@gmail.com>
+Date:   Wed Feb 28 10:34:03 2024 -0600
+
+    Creando comentarios explicativos del programa aun mas comentarios
+
+commit 2a2c260238f451593d3490385f0ffa924fdd230c
+Author: Rocio Lopez <guisell.alvarado@gmail.com>
+Date:   Wed Feb 28 09:56:28 2024 -0600
+
+    Creando comentarios explicativos del programa
+
+commit 73f6419c9bf60c968bc554996d12c0f44926f439
+Author: Rocio Lopez <guisell.alvarado@gmail.com>
+Date:   Wed Feb 28 09:51:39 2024 -0600
+
+    Creando proyecto, variable de examen
+
+commit 1e6b38ca044195905ff4d65bdbaba57c89e0b2db
+Author: Rocio Guisell López Espinoza <42458316+RocioGLopez@users.noreply.github.com>
+Date:   Wed Feb 28 09:47:39 2024 -0600
+
+    Initial commit
