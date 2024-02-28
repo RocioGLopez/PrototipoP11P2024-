@@ -204,7 +204,7 @@ float imprimirMatriz(float matriz[NUMERO_ALUMNOS][NUMERO_NOTAS + 1], char alumno
     {
         cout << setw(9) << "Parcial" << x + 1;
     }
-    cout << setw(8) << "Tot" << endl;
+    cout << setw(8) << "Total" << endl;
     imprimirMatrizLinea();
 
     //imprime notas
@@ -215,7 +215,7 @@ float imprimirMatriz(float matriz[NUMERO_ALUMNOS][NUMERO_NOTAS + 1], char alumno
         for (x = 0; x < NUMERO_NOTAS; x++)
         {
             int calificacion = matriz[y][x];
-            cout << setw(9) << calificacion << "!";
+            cout << setw(9) << calificacion << "|";
         }
 
         //aqui ya calcula el promedio
@@ -238,8 +238,8 @@ float imprimirMatriz(float matriz[NUMERO_ALUMNOS][NUMERO_NOTAS + 1], char alumno
 
     //escribe el promedio en pantalla
     promedioGeneral = totalGeneral / NUMERO_ALUMNOS;
-    cout << "Nota mayor: " << setw(10) << alumnoPromedioMayor <<  setw(10) << promedioMayor << endl;
-    cout << "Nota menor: " << setw(10) << alumnoPromedioMenor <<  setw(10) << promedioMenor << endl;
+    cout << "FELICIDADES OBTUVISTE LA Nota mayor: " << setw(10) << alumnoPromedioMayor <<  setw(10) << promedioMayor << endl;
+    cout << "DEBE MEJORAR Nota menor: " << setw(10) << alumnoPromedioMenor <<  setw(10) << promedioMenor << endl;
     cout << "Nota prom : " << setw(10) <<  promedioGeneral << endl << endl;
     return promedioGeneral;
 }
