@@ -1,11 +1,14 @@
-// laboratorio de utilización de matrices codigo heredado de C
+/*Variante de examen parcial 1, Caso practico
+*/
+
+//librerias usadas en c++ para diferentes funciones dentro del programa
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
 #include <iostream>
 #include <iomanip>
-
+//esto nos permite poder usar datos como cout cin sin el nombre largo
 using namespace std;
 
 #define NUMERO_ALUMNOS 5
